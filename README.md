@@ -28,20 +28,6 @@ Materials are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/
 
 ---
 
-
-
-
-
-## Experimental
-
-Faster loading and permanent environments?
-
-Jupyter+R: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/services/binder/v2/gh/quarcs-lab/nb-open/HEAD?urlpath=lab)
-
-R Studio: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/services/binder/v2/gh/quarcs-lab/nb-open/HEAD?urlpath=rstudio)
-
-
-
 ## Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
