@@ -1,6 +1,7 @@
 install.packages("AER", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("BMS", repos = "https://cloud.r-project.org/", dependencies=TRUE)
-install.packages("dineq", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("BMS", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("ConvergenceClubs", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("dineq", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("dygraphs", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("educineq", repos = "https://cloud.r-project.org/", dependencies=TRUE)
