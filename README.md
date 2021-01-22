@@ -1,4 +1,4 @@
-Jupyter Lab: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-quarcs/HEAD?urlpath=lab)
+Jupyter Lab: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-py-quarcs/HEAD?urlpath=lab)
 
 # nb-py-quarcs: Python computational notebooks to explore and learn
 
