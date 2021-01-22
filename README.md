@@ -1,8 +1,6 @@
 Jupyter Lab: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-quarcs/HEAD?urlpath=lab)
 
-R Studio: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-quarcs/HEAD?urlpath=rstudio)
-
-# nb-quarcs: Computational notebooks to explore and learn
+# nb-py-quarcs: Python computational notebooks to explore and learn
 
 
 ## Online Analysis Environment
@@ -11,8 +9,6 @@ R Studio: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https:/
 The notebooks can be executed online at [GESIS Notebooks](https://notebooks.gesis.org). Just copy the URL of this repository and paste it on the [BINDER form](https://notebooks.gesis.org/binder/)
 
 - To open a virtual Jupyter lab session, make sure you change you click on `File` and change it to `URL`. Then, write `lab` in the field `URL to open (optional)`. Finally, click on `launch`. Alternatively, you could just click on this Binder badge: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-quarcs/HEAD?urlpath=lab)
-
-- To open a virtual R Studio session, make sure you change you click on `File` and change it to `URL`. Then, write `rstudio` in the field `URL to open (optional)`. Finally, click on `launch`.  Alternatively, you could just click on this Binder badge: [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/quarcs-lab/nb-quarcs/HEAD?urlpath=rstudio)
 
 
 ---
